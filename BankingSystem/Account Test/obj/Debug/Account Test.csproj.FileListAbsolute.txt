@@ -1,1 +1,8 @@
 C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Account Test\bin\Debug\Account Test.exe.config
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Account Test\bin\Debug\Account Test.exe
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Account Test\bin\Debug\Account Test.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Account Test\bin\Debug\Banking Model.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Account Test\bin\Debug\Banking Model.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Account Test\obj\Debug\Account Test.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Account Test\obj\Debug\Account Test.exe
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Account Test\obj\Debug\Account Test.pdb
