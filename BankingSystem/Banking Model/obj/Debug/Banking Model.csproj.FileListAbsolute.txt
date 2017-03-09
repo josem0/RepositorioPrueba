@@ -1,0 +1,5 @@
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Banking Model\bin\Debug\Banking Model.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Banking Model\bin\Debug\Banking Model.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Banking Model\obj\Debug\Banking Model.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Banking Model\obj\Debug\Banking Model.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\RepositorioPrueba\BankingSystem\Banking Model\obj\Debug\Banking Model.pdb
